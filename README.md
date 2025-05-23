@@ -25,8 +25,7 @@ Make sure you have the following installed:
 
 ✅ 2. Clone the Repository
 
-git clone https://github.com/your-username/playwright-java-tests.git
-cd playwright-java-tests
+git clone (https://github.com/AbdulAbrahams/BitcubeAssessment.git)
 
 ---
 
@@ -45,6 +44,3 @@ mvn exec:java -e -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="inst
 ---
 
 ✅ 5. Run the Tests
-To run all tests:
-
-mvn test
