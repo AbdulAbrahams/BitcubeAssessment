@@ -22,20 +22,6 @@ Make sure you have the following installed:
 
 ---
 
-## Project Structure
-
-- src
-- ├── test
-- │   └── java
-- │       ├── pages
-- │       │   └── FactorialHomePage.java   # Page Object class
-- │       └── tests
-- │           └── FactorialTests.java      # TestNG test cases
-- pom.xml                                  # Maven configuration
-- README.md                                # Project documentation
-
----
-
 1. Clone the Repository
 
 git clone (https://github.com/AbdulAbrahams/BitcubeAssessment.git)
