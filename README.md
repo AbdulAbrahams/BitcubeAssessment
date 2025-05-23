@@ -28,6 +28,8 @@ You can check with:
 java -version
 mvn -v
 
+---
+
 ## Clone the Repo
 - git clone https://github.com/your-username/playwright-java-tests.git
 - cd playwright-java-tests
