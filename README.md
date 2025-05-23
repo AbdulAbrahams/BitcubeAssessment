@@ -19,7 +19,6 @@ Make sure you have the following installed:
 
 - **Java 11 or newer**
 - **Maven 3.6+**
-- (Optional) **Git**
 
 ---
 
