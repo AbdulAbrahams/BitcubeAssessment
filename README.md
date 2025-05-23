@@ -22,24 +22,24 @@ Make sure you have the following installed:
 
 ---
 
-✅ 2. Clone the Repository
+2. Clone the Repository
 
 git clone (https://github.com/AbdulAbrahams/BitcubeAssessment.git)
 
 ---
 
-✅ 3. Build the Project
+3. Build the Project
 Use Maven to install dependencies:
 
 mvn clean install
 
 ---
 
-✅ 4. Install Playwright Browsers
+4. Install Playwright Browsers
 Playwright uses browser binaries that must be installed once:
 
 mvn exec:java -e -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="install"
 
 ---
 
-✅ 5. Run the Tests
+5. Run the Tests
