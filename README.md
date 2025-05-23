@@ -24,15 +24,15 @@ Make sure you have the following installed:
 
 ## Project Structure
 
-src
-├── test
-│   └── java
-│       ├── pages
-│       │   └── FactorialHomePage.java   # Page Object class
-│       └── tests
-│           └── FactorialTests.java      # TestNG test cases
-pom.xml                                  # Maven configuration
-README.md                                # Project documentation
+- src
+- ├── test
+- │   └── java
+- │       ├── pages
+- │       │   └── FactorialHomePage.java   # Page Object class
+- │       └── tests
+- │           └── FactorialTests.java      # TestNG test cases
+- pom.xml                                  # Maven configuration
+- README.md                                # Project documentation
 
 ---
 
